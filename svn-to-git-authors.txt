@@ -1,0 +1,2 @@
+svnusr1 = Vorname Nachname1 <vorname.nachname1@firma.de>
+svnusr2 = Vorname Nachname2 <vorname.nachname2@firma.de>
